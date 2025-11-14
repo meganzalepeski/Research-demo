@@ -1,0 +1,12 @@
+[submodule "my-project"]
+	path = my-project
+	url = https://github.com/meganzalepeski/Github-Project.git
+[submodule "external/PyPOD-GP"]
+	path = external/PyPOD-GP
+	url = https://github.com/CompResearchLab/PyPOD-GP.git
+[submodule "external/POD-Schrodinger-Equation-Solver"]
+	path = external/POD-Schrodinger-Equation-Solver
+	url = https://github.com/CompResearchLab/POD-Schrodinger-Equation-Solver.git
+[submodule "external/PODTherm-GP"]
+	path = external/PODTherm-GP
+	url = https://github.com/CompResearchLab/PODTherm-GP.git
