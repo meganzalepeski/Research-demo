@@ -1,5 +1,5 @@
-[submodule "Github-Project"]
-	path = Github-Project
+[submodule "my-project"]
+	path = my-project
 	url = https://github.com/meganzalepeski/Github-Project.git
 [submodule "external/PyPOD-GP"]
 	path = external/PyPOD-GP
